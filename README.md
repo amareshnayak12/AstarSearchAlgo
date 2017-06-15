@@ -1,1 +1,1 @@
-# AstarSearchAlgo
+# A-StarSearchAlgorithm
